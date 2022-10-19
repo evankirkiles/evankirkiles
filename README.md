@@ -19,7 +19,7 @@ i am evan.
  _| | : |_
 (nOBOt)_)_)
 ```
-i like to code visual things. please poke and prod around my page. and contact me.
+i like to code visual things. please poke and prod around my page. and hire me for the summer!
 
 ⚘ [evankirkiles.com](https://evankirkiles.com) ⚘ ~~[evan-has-a.world](https://evan-has-a.world/)~~ ⚘ ~~[evan-has-a.website](https://evan-has-a.website/)~~ ⚘ ~~[evan-has-a.blog](https://evan-has-a.blog)~~ ⚘<br/>
 ⚘ [paperarium.place](https://paperarium.place) ⚘ [abitofpersonal.space](https://abitofpersonal.space) ⚘ [nobot.space](https://nobot.space) ⚘ [cs334.vercel.app](https://cs334.vercel.app) ⚘ <br/>
