@@ -4,7 +4,7 @@ i am evan.
 
 ```
                   .....................
-                  : evan-has-a.world! :
+                  : evankirkiles.com! :
  .-.-~-.-~-.-~-.~-.......    ..........
 ( stupid computers )     `.  :
  `-' `-' `-'o-'-`-'        `.:
